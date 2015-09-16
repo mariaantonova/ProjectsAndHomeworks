@@ -1,0 +1,12 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.csprojResolveAssemblyReference.cache
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\bin\Debug\NumbersNotDivisibleby3and 7.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\NumbersNotDivisibleby3and 7\obj\Debug\NumbersNotDivisibleby3and 7.csprojResolveAssemblyReference.cache

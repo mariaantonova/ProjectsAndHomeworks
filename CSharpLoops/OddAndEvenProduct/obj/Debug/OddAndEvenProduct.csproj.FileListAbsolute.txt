@@ -1,0 +1,10 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb

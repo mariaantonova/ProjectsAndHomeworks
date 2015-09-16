@@ -1,0 +1,6 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\ConsoleApplicati\bin\Debug\ConsoleApplicati.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\ConsoleApplicati\bin\Debug\ConsoleApplicati.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\ConsoleApplicati\bin\Debug\ConsoleApplicati.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\ConsoleApplicati\bin\Debug\ConsoleApplicati.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\ConsoleApplicati\obj\Debug\ConsoleApplicati.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\ConsoleApplicati\obj\Debug\ConsoleApplicati.pdb

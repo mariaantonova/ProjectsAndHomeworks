@@ -1,0 +1,2 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config

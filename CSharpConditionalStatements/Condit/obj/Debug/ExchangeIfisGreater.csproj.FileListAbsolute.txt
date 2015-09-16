@@ -1,0 +1,12 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\bin\Debug\Condit.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\bin\Debug\Condit.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\bin\Debug\Condit.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\obj\Debug\ExchangeIfisGreater.csprojResolveAssemblyReference.cache
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\obj\Debug\Condit.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\Condit\obj\Debug\Condit.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\Condit\bin\Debug\Condit.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\Condit\obj\Debug\Condit.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\Condit\obj\Debug\Condit.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\ConditionalStatements\Condit\bin\Debug\Condit.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\ConditionalStatements\Condit\obj\Debug\Condit.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\ConditionalStatements\Condit\obj\Debug\Condit.pdb

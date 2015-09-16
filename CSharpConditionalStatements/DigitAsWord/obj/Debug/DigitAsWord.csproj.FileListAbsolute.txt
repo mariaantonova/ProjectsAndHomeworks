@@ -1,0 +1,8 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\DigitAsWord\obj\Debug\DigitAsWord.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\DigitAsWord\obj\Debug\DigitAsWord.pdb

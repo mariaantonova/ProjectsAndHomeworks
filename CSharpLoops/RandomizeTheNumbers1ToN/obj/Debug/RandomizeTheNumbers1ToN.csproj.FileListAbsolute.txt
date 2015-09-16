@@ -1,0 +1,2 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe.config

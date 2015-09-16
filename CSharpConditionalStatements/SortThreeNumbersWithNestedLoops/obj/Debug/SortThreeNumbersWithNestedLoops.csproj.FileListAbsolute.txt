@@ -1,0 +1,9 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\bin\Debug\SortThreeNumbersWithNestedLoops.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\bin\Debug\SortThreeNumbersWithNestedLoops.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\bin\Debug\SortThreeNumbersWithNestedLoops.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\obj\Debug\SortThreeNumbersWithNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\obj\Debug\SortThreeNumbersWithNestedLoops.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\SortThreeNumbersWithNestedLoops\obj\Debug\SortThreeNumbersWithNestedLoops.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\SortThreeNumbersWithNestedLoops\bin\Debug\SortThreeNumbersWithNestedLoops.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\SortThreeNumbersWithNestedLoops\obj\Debug\SortThreeNumbersWithNestedLoops.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\SortThreeNumbersWithNestedLoops\obj\Debug\SortThreeNumbersWithNestedLoops.pdb

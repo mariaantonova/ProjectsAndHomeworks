@@ -1,0 +1,11 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\PlayWithIntDoubleandString\obj\Debug\PlayWithIntDoubleandString.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\PlayWithIntDoubleandString\obj\Debug\PlayWithIntDoubleandString.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\obj\Debug\PlayWithIntDoubleandString.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\obj\Debug\PlayWithIntDoubleandString.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\bin\Debug\PlayWithIntDoubleandString.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\PlayWithIntDoubleandString\obj\Debug\PlayWithIntDoubleandString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
+E:\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+E:\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+E:\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache

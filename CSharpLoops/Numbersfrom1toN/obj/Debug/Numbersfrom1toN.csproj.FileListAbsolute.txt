@@ -1,0 +1,9 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.csprojResolveAssemblyReference.cache
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.pdb

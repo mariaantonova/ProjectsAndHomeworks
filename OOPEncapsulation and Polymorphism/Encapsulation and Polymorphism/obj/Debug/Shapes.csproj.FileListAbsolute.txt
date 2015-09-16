@@ -1,0 +1,24 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe.config
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Encapsulation and Polymorphism\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe.config
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.exe
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\bin\Debug\Encapsulation and Polymorphism.pdb
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Encapsulation and Polymorphism\Encapsulation and Polymorphism\obj\Debug\Shapes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

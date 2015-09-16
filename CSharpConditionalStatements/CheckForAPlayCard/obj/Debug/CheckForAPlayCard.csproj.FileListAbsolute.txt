@@ -1,0 +1,9 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.csprojResolveAssemblyReference.cache
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution5\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

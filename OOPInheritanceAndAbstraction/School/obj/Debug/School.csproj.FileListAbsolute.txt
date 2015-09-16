@@ -1,0 +1,22 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution1\School\bin\Debug\School.exe.config
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\bin\Debug\School.pdb
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\obj\Debug\School.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\obj\Debug\School.pdb
+E:\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+E:\Homework5InheritanceAndAbstraction\School\obj\Debug\School.exe
+E:\Homework5InheritanceAndAbstraction\School\obj\Debug\School.pdb
+E:\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe
+E:\Homework5InheritanceAndAbstraction\School\bin\Debug\School.pdb
+E:\Homework5InheritanceAndAbstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\obj\Debug\School.exe
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\School\obj\Debug\School.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\School\obj\Debug\School.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\School\obj\Debug\School.pdb
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Homework5InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Homework5InheritanceAndAbstraction\School\obj\Debug\School.exe
+C:\Users\mariia\Desktop\ProjectsAndHomeworks\Homework5InheritanceAndAbstraction\School\obj\Debug\School.pdb

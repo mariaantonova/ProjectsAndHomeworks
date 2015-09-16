@@ -1,0 +1,9 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution5\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Conditional Statements\Homework5\BonusScore\obj\Debug\BonusScore.pdb

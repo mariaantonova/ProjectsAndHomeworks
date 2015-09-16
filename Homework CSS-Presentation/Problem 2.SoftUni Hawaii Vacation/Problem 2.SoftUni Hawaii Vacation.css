@@ -1,0 +1,57 @@
+@font-face {
+  font-family: Animated;
+  src: url('Animated.ttf');
+  
+}
+
+
+#collect {
+	
+	width:900px;
+	height:600px;
+	
+	background-image: url('TediHula.png'), 
+	url('AlexHula.png'), 
+	url('VladoKHula.png'), 
+	url('NakovHula.png'),  
+	
+    url('PetiaHula.png'),
+	url('VladoGHula.png'),
+	url('HawaiiBackground.png');
+	
+	background-position: left 250px top 360px,
+	left 420px top 200px,
+	left 600px top 220px, 
+	left 320px top 140px,
+	
+	left 140px top 200px, 
+	left 20px top 220px, 
+	left 0px top 0px;
+    background-repeat: no-repeat;
+
+}
+
+#text {
+	font-family:Animated;
+	font-size:35px;
+	color:#FCBC22;
+	margin-left:580px;
+	}
+	
+#gradSun{
+	height:350px;
+    width: 350px;
+	
+    background: -webkit-radial-gradient(yellow, white,  #86B3E2); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(yellow, white,  #86B3E2); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(yellow, white,  #86B3E2); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(yellow 15%, white 15%,  #86B3E2 40%); /* Standard syntax (must be last) */
+}
+
+.sky {
+	width:900px;
+	height:600px;
+	background-color:#86B3E2;
+	
+}
+

@@ -1,0 +1,15 @@
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.exe.config
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.pdb
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.exe
+C:\Users\Mariq\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.pdb
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.exe.config
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.exe
+C:\Users\mariia\Documents\Visual Studio 2013\Projects\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\bin\Debug\Company Hierarchy.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Inheritance and abstraction\Homework5InheritanceAndAbstraction\Company Hierarchy\obj\Debug\Company Hierarchy.csprojResolveAssemblyReference.cache

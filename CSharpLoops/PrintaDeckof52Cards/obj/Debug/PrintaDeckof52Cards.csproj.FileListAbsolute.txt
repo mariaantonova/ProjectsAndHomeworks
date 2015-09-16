@@ -1,0 +1,12 @@
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.exe.config
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.pdb
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.exe
+C:\Users\Mariq\documents\visual studio 2013\Projects\Solution7\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.csprojResolveAssemblyReference.cache

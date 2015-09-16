@@ -1,0 +1,9 @@
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.exe.config
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.exe
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.pdb
+c:\users\mariq\documents\visual studio 2013\Projects\Solution7\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Loops\Loops\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.pdb

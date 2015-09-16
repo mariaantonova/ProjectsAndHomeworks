@@ -1,0 +1,17 @@
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\em111o\documents\visual studio 2012\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\mariia\Downloads\Homework-mariikaantonova-Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.csprojResolveAssemblyReference.cache
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+F:\ProjectsAndHomeworks\CSharpIntro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.csprojResolveAssemblyReference.cache
